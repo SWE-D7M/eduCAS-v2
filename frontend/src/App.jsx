@@ -183,7 +183,7 @@ University of Hail - College of Computer Science and Engineering
   return (
     <div className="app">
       <nav className="navbar">
-        <div className="nav-logo">🎓 EduCAS</div>
+        <div className="nav-logo">EduCAS</div>
         <div className="nav-links">
           <button onClick={() => navigate('/')} className="nav-btn">Home</button>
           <button onClick={() => navigate('/analyze')} className="nav-btn active">Analyze</button>
@@ -336,7 +336,7 @@ University of Hail - College of Computer Science and Engineering
         </main>
 
         <footer>
-          <p>🎓 EduCAS · University of Hail · Department of Software Engineering</p>
+          <p>EduCAS · University of Hail · Department of Software Engineering</p>
         </footer>
       </div>
     </div>
