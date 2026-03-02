@@ -72,7 +72,7 @@ header p {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 14px 32px;
+  padding: 16px 40px;
   background: rgba(10,14,39,0.95);
   backdrop-filter: blur(20px);
   border-bottom: 1px solid rgba(26,115,232,0.3);
@@ -82,7 +82,7 @@ header p {
 }
 
 .nav-logo {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   font-weight: 700;
   color: white;
   letter-spacing: 2px;
@@ -98,9 +98,9 @@ header p {
   background: transparent;
   color: rgba(255,255,255,0.7);
   border: 1px solid transparent;
-  padding: 7px 14px;
+  padding: 8px 16px;
   border-radius: 10px;
-  font-size: 0.85rem;
+  font-size: 0.88rem;
   font-weight: 500;
   cursor: pointer;
   transition: all 0.2s;
