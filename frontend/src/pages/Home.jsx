@@ -40,8 +40,8 @@ function Home() {
           <div className="feature-card"><span>📄</span><h3>Multi-Format Upload</h3><p>Upload PDF, DOCX, or TXT files and get instant analysis without any manual work.</p></div>
           <div className="feature-card"><span>🤖</span><h3>AI Classification</h3><p>Our AI identifies the subject domain, difficulty level, and target audience automatically.</p></div>
           <div className="feature-card"><span>📊</span><h3>Detailed Results</h3><p>Get a complete analysis including summary, recommendations, and downloadable report.</p></div>
-          <div className="feature-card"><span>⚡</span><h3>Lightning Fast</h3><p>Powered by Groq AI with Llama 3.3, delivering results in under 60 seconds.</p></div>
-          <div className="feature-card"><span>🔒</span><h3>Secure & Private</h3><p>Your files are processed in memory only and never saved to disk.</p></div>
+          <div className="feature-card"><span>⚡</span><h3>Lightning Fast</h3><p>Powered by DistilBERT zero-shot classification, delivering results in under 60 seconds.</p></div>
+          <div className="feature-card"><span>🔒</span><h3>Secure & Private</h3><p>Your analysis sessions are stored securely in our PostgreSQL database.</p></div>
           <div className="feature-card"><span>🌍</span><h3>Cloud Deployed</h3><p>Access EduCAS from anywhere in the world on any device.</p></div>
         </div>
       </section>

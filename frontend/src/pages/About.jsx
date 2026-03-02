@@ -50,12 +50,12 @@ function About() {
         <div className="about-section">
           <h2>Technology Stack</h2>
           <div className="tech-grid">
-            <div className="tech-card"><span>⚛️</span><h3>React.js</h3><p>Frontend Interface</p></div>
-            <div className="tech-card"><span>🟩</span><h3>Node.js</h3><p>Backend Server</p></div>
-            <div className="tech-card"><span>🤖</span><h3>Llama 3.3</h3><p>AI Model by Meta</p></div>
-            <div className="tech-card"><span>⚡</span><h3>Groq API</h3><p>AI Provider</p></div>
-            <div className="tech-card"><span>☁️</span><h3>Render.com</h3><p>Cloud Hosting</p></div>
-            <div className="tech-card"><span>🐙</span><h3>GitHub</h3><p>Version Control</p></div>
+           <div className="tech-card"><span>⚛️</span><h3>React.js 18 + Vite</h3><p>Frontend Interface</p></div>
+<div className="tech-card"><span>🐍</span><h3>Python 3.11 + FastAPI</h3><p>Backend Server</p></div>
+<div className="tech-card"><span>🤖</span><h3>DistilBERT</h3><p>HuggingFace Transformers</p></div>
+<div className="tech-card"><span>🗄️</span><h3>PostgreSQL 15</h3><p>Database</p></div>
+<div className="tech-card"><span>🌐</span><h3>Nginx</h3><p>Web Server</p></div>
+<div className="tech-card"><span>🐳</span><h3>Docker + Compose</h3><p>Containerization</p></div>
           </div>
         </div>
 
