@@ -24,7 +24,7 @@ app.add_middleware(
 create_tables()
 
 print("Loading AI model...")
-classifier = pipeline("zero-shot-classification", model="typeform/distilbert-base-uncased-mnli")
+classifier = pipeline("zero-shot-classification", model="cross-encoder/nli-MiniLM2-L6-H768")
 print("Model ready!")
 
 DOMAIN_LABELS     = ["STEM", "Humanities", "Social Sciences"]
