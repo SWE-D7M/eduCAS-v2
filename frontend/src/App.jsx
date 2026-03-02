@@ -1,6 +1,5 @@
 import { useState, useRef } from 'react'
 import { useNavigate } from 'react-router-dom'
-import './App.css'
 
 // Domain-specific vocabulary lists for orange highlighting
 const DOMAIN_VOCAB = {
