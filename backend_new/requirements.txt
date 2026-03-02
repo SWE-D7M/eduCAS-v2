@@ -3,8 +3,8 @@ uvicorn
 python-multipart
 PyPDF2
 python-docx
+torch --index-url https://download.pytorch.org/whl/cpu
 transformers
-torch
 sqlalchemy
 psycopg2-binary
 apscheduler
